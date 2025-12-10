@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158898260626",
+    "project_id": "uapmola-19199",
+    "storage_bucket": "uapmola-19199.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158898260626:android:e69e11db70211c4b02b44b",
+        "android_client_info": {
+          "package_name": "com.example.uap_mola"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr1SyEZEByFbN8w6kG5750Rz4TUjt3Im0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
